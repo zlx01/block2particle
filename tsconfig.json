@@ -35,7 +35,6 @@
     "tests/**/*.tsx"
   ],
   "exclude": [
-    "node_modules",
-    "src/utils/particle.ts"
+    "node_modules"
   ]
 }
